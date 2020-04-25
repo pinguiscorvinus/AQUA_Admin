@@ -57,9 +57,9 @@
 											<th scope="col">地點區域</th>
 											<th scope="col">地點難度</th>
 											<th scope="col">滿意度</th>
-											<th scope="col" class="sorttable_nosort">地點描述</th>
-											<th scope="col" class="sorttable_nosort">交通資訊</th>
-											<th scope="col" class="sorttable_nosort">修改/刪除</th>
+											<th scope="col">地點描述</th>
+											<th scope="col">交通資訊</th>
+											<th scope="col">修改/刪除</th>
 										</tr>
 									</thead>
 								<!-- 表格本體 -->
